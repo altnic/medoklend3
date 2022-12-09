@@ -809,11 +809,12 @@ input {
   color: #333333;
 }
 
-.health__list-item--color:nth-child(1),
-.health__list-item--color:nth-child(2) {
+.health__list-item--color:nth-child(1){
   background: #f0e8fd;
 }
-
+.health__list-item--color:nth-child(2) {
+  background: #F0E8FD;
+}
 .health__list-item--color:nth-child(3) {
   background: #e3f3ff;
 }
@@ -947,7 +948,7 @@ input {
   width: 50%;
   border-top-left-radius: 50px;
   border-bottom-left-radius: 50px;
-  background-color: transparent;
+  background-color: rgba(234, 240, 255, 0.6);
 }
 
 .program__inner {
