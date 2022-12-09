@@ -810,13 +810,13 @@ input {
 }
 
 .health__list-item--color:nth-child(1){
-  background: #f0e8fd;
+  background: #FFEAF6;
 }
 .health__list-item--color:nth-child(2) {
   background: #F0E8FD;
 }
 .health__list-item--color:nth-child(3) {
-  background: #e3f3ff;
+  background: #E3F3FF;
 }
 
 .cases {
