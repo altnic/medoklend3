@@ -985,7 +985,7 @@ input {
   line-height: 1.29;
   text-align: left;
   color: #f178b6;
-  margin-bottom: 40px;
+  margin-bottom: 23px;
 }
 
 .program__column-left .program__title {
@@ -1045,7 +1045,6 @@ input {
 
 .program__column-right .program__title {
   max-width: 440px;
-  margin-bottom: 23px;
 }
 
 .program__column-right .program-list-action {
